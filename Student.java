@@ -10,7 +10,7 @@ public class Student {
         return 1.0d;
     }
 
-    public void listSubjectsWithNoGrade() { 
+    public void listSubjectsWithNoGrade() {
     }
 
     public Student() {
@@ -79,5 +79,5 @@ public class Student {
         return "Student [lastName=" + lastName + ", firstName=" + firstName + ", phone=" + phone + ", email=" + email
                 + ", yearRegistered=" + yearRegistered + ", studentNumber=" + studentNumber + "]";
     }
-    
+
 }
